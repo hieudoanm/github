@@ -1,6 +1,13 @@
 # GitHub
 
 - Command-line Interface (CLI)
-- Code of Conduct
-- Emoijs
-- Licenses
+  - CoC
+  - Licenses
+- Images
+  - Emoijs
+- Markdown
+  - `.gitignore`
+  - Code of Conduct (CoC)
+  - Licenses
+- Templates
+  - `.gitignore`
